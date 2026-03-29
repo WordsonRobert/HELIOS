@@ -94,8 +94,8 @@ python evaluate/compare_gt.py
 
 ## Authors
 
-- **Wordson** (w22linux) — ML, training, data pipeline · WordsonMSI
-- **Savith** — MQB-Kraus Lindblad model · Colab A100
+- **Wordson** 
+- **Savith** 
 
 ---
 
