@@ -1,0 +1,13 @@
+data/*.npz
+data/*.npy
+causal/.groq_key
+results/*.log
+results/*.pkl
+results/*.npz
+!results/runs3_summary.md
+__pycache__/
+*.pyc
+.DS_Store
+sweep_*.npz
+trained_params.npz
+training_history.pkl
